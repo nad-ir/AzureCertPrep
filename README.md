@@ -8,7 +8,7 @@ Dive into the world of Azure with these notes, crafted from my personal study ex
 
 This repository initially focuses on the AI-900: Microsoft Azure AI Fundamentals exam and will expand to include additional Azure certifications over time. Here's what you can currently find:
 
-- **AI-900**: Microsoft Azure AI Fundamentals
+- [**AI-900**: Microsoft Azure AI Fundamentals](https://github.com/nad-ir/AzureCertPrep/tree/032d628b04d215f25318c87b2157b03532fc9d77/AI-900%20-%20Azure%20AI%20Fundamentals)
 
 Future updates will include comprehensive study materials for further Azure certifications.
 
